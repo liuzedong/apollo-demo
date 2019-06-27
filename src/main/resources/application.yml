@@ -1,0 +1,7 @@
+app:
+  id: demo
+
+apollo:
+  meta: http://localhost:30005
+  bootstrap:
+    enabled: true
